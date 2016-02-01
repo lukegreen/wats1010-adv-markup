@@ -33,3 +33,30 @@ ul.poem {
   max-width: 350px;
 }
 
+#social-media {
+  list-style: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.twitter {
+	display: inline-block;
+	position: relative;
+	width: 30px;
+	height: 30px;
+}
+
+.facebook {
+  display: inline-block;
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+
+.pinterest {
+  display: inline-block;
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
