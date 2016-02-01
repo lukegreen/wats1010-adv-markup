@@ -1,5 +1,9 @@
 /* Styles for the Advanced Markup assignment. */
 
+p, h1, h2, h3, li {
+  font-family: arial;
+}
+
 nav ul li {
   display: inline;
 }
